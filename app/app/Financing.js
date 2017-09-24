@@ -1,4 +1,4 @@
-//财富e 融
+﻿
 import React, { Component } from 'react'
 import {
   StyleSheet,
@@ -24,7 +24,7 @@ import baseStyle from '../styles/base'
 import HYActionSheet from '../component/HYActionSheet'
 import Util, { setToken, requestAllPermission } from "../util/utils"
 
-//style
+
 import financingStyle from '../styles/financing';
 import  applyStyle from "../styles/applySteps";
 var width = Dimensions.get('window').width;
